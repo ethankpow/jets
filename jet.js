@@ -1,6 +1,7 @@
 var Jet = function (color, size) {
-  this.color = maroon;
+  this.color = black;
   this.size = size;
+
 
   this.takeOff = function () {
     console.log('lift off!');
