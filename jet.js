@@ -1,5 +1,5 @@
 var Jet = function (color, size) {
-  this.color = olive-green;
+  this.color = pink;
   this.size = size;
 
   this.fly = function () {
